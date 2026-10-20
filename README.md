@@ -5,7 +5,7 @@ A neural network that predicts a person's yearly medical insurance costs from ba
 
 **Result: predictions are off by $2,290 on average** (target was under $3,500).
 
-![Predicted vs actual expenses](results.png)
+![Predicted vs actual expenses](result.png)
 
 ## The problem
 Insurance companies need to estimate how much a person will cost before they set a price. Using data on 1,338 people, this model learns which factors push medical costs up.
