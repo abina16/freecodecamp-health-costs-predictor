@@ -1,2 +1,2 @@
 # freecodecamp-health-costs-predictor
-You are given a dataset that contains information about different people including their healthcare costs. Use the data to predict healthcare costs based on new data.
+Neural network that predicts yearly medical costs within $2,290 on average | TensorFlow, Keras, pandas
